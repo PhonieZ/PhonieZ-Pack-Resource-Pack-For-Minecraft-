@@ -28,6 +28,7 @@ Here a sample from the edited Minecraft credits in the pack to serve as the cred
             Phoniez(me) because, well I made it.
             Gimp,because photoshop cost a bunch,and free a good price
             Google,so i could have reference images for my horrible art
+            Vanilla tweaks for making the other part of this pack
 
 
 ###### "[Insert Quote Thingy Here]" - PhonieZ
