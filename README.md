@@ -1,6 +1,6 @@
 # PhonieZ-Pack-Resource-Pack-For-Minecraft-
 
-A resource pack for Minecraft,For 1.12.2,1.16.5 and 1.17, credit to Vanilla Tweaks
+A resource pack for Minecraft,For 1.12.2,1.16.5,1.17 and 1.18.x , credit to Vanilla Tweaks
 
 Here a sample from the edited Minecraft credits in the pack to serve as the credits for this pack:
 
